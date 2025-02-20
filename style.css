@@ -13,6 +13,7 @@ body {
   height: 65%;
   width: 55%;
   padding: 0 20px;
+
 }
 
 .info-section {
@@ -34,7 +35,7 @@ body {
 }
 
 .logo {
-  width: 50px;
+  width: 90px;
   height: auto;
 }
 
@@ -49,7 +50,6 @@ body {
   color: gray;
 }
 
-/* Form Section */
 .form-section {
   background-color: white;
   flex: 1;
@@ -106,7 +106,6 @@ form {
   background-color: #17a896;
 }
 
-/* Terms & Conditions */
 .terms {
   font-size: 12px;
   text-align: center;
